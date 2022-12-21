@@ -54,6 +54,9 @@ https://github.com/hadesfranklyn/Microsservicos-com-Feign-Book-Service/tree/main
 
 ## O que é o projeto?
 
+Imagine o seguinte, a gente tem um cliente representado aqui pelo POSTMAN, mas pode ser uma outra aplicação, um outro serviço, qualquer tipo de cliente.
+Abaixo tem esse endpoint http://localhost:8100/book-service/1/BRL, book service, esse book service tem acesso à base de dados também chamada de book_service,
+nesse banco de dados tem autor, data de lançamento, preço e título do livro. O preço está em dolar. Imagine que tem que vender em diferentes mercados, evidentemente que nenhum sistema real cálculo de preço vai ser muito mais complexo do que isso, vai levar em conta a tributação na série e outras variáveis.
 
 
 ## Referências

@@ -21,7 +21,7 @@ através do protocolo HTTP"._ – **Martin Fowler**
 
 - _"Microsserviços são o bom e velho SOA otimizado"._ – **Adrian Cockcroft** – **Netflix**
 
-###### API – Application Programming Interface;  `   `   SOA – Service Oriented Architecture.
+> API – Application Programming Interface;  `   `   SOA – Service Oriented Architecture.
 
 ## Algumas definições
 
@@ -40,3 +40,24 @@ serviços
 
 
 
+## Referências
+
+> https://nfvwiki.etsi.org/index.php?title=NFV_FAQ
+
+> https://www.etsi.org/newsroom/press-releases/1673-2019-10-etsi-introduces-a-new-end-to-end-architectural-framework-for-network-and-service-automation
+
+> https://www.etsy.com/
+
+> https://en.wikipedia.org/wiki/Etsy
+
+> https://martinfowler.com/bliki/MonolithFirst.html
+
+> https://techbeacon.com/app-dev-testing/monolith-microservices-horror-stories-best-practices
+
+> https://medium.com/a-technologists-pov/i-just-heard-that-monoliths-are-the-future-of-software-development-2190bf7f3c40
+
+> https://www.youtube.com/watch?v=kow-sXTCg30
+
+> https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html
+
+> https://www.slideshare.net/spnewman/principles-of-microservices-velocity

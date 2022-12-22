@@ -58,6 +58,26 @@ Imagine o seguinte, a gente tem um cliente representado aqui pelo POSTMAN, mas p
 Abaixo tem esse endpoint http://localhost:8100/book-service/1/BRL, book service, esse book service tem acesso à base de dados também chamada de book_service,
 nesse banco de dados tem autor, data de lançamento, preço e título do livro. O preço está em dolar. Imagine que tem que vender em diferentes mercados, evidentemente que nenhum sistema real cálculo de preço vai ser muito mais complexo do que isso, vai levar em conta a tributação na série e outras variáveis.
 
+# Eureka Naming Server
+
+O servidor de nomenclatura Eureka é um servidor baseado em REST usado nos serviços da Nuvem AWS para balanceamento de carga e failover de serviços de camada intermediária.
+
+O servidor de nomes Eureka é um aplicativo que contém informações sobre todos os aplicativos de atendimento ao cliente. Cada microsserviço se registra no servidor de nomenclatura Eureka. O servidor de nomes registra os serviços do cliente com seus números de porta e endereços IP . Também é conhecido como Discovery Server.   O servidor de nomes Eureka vem com o pacote Spring Cloud. Ele é executado na porta padrão 8761 . Ele também vem com um componente cliente baseado em Java, o cliente eureka, que facilita muito as interações com o serviço.
+
+https://www.javatpoint.com/eureka-naming-server
+
+
+http://localhost:8765/book-service/14/BRL
+http://localhost:8765/cambio-service/4/USD/BRL
+
+API Gateway é um serviço gerenciado que permite que desenvolvedores criem, publiquem, mantenham, monitorem e protejam APIs em qualquer escala com facilidade. APIs agem como a “porta de entrada” para aplicativos acessarem dados, lógica de negócios ou funcionalidade de seus serviços de back-end.
+
+# falta implementar: 
+## circuit breaker microservices
+Os disjuntores são um padrão de design para criar microsserviços resilientes, limitando o impacto de falhas e latências de serviço . O principal objetivo do padrão do disjuntor é evitar qualquer falha em cascata no sistema. Em um sistema de microsserviço, falhar rapidamente é crítico.
+
+## Swagger OpenApi
+O Swagger ajuda os usuários a criar, documentar, testar e consumir serviços da Web RESTful . Ele pode ser usado com uma abordagem de desenvolvimento de API de cima para baixo e de baixo para cima. No método top-down ou design-first, o Swagger pode ser usado para projetar uma API antes que qualquer código seja escrito.
 
 ## Referências
 

@@ -36,12 +36,10 @@ public class Cambio implements Serializable {
 
 	// constructors
 	public Cambio() {
-		super();
 	}
 
 	public Cambio(Long id, String from, String to, BigDecimal conversionFactor, BigDecimal convertedValue,
 			String environment) {
-		super();
 		this.id = id;
 		this.from = from;
 		this.to = to;

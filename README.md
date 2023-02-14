@@ -1,3 +1,13 @@
+O que precisa para funcionar:
+
+- Java 11+ [Clique aqui](https://www.oracle.com/java/technologies/javase/jdk19-archive-downloads.html)
+- Maven 3.9.0+ [Clique aqui](https://maven.apache.org/download.cgi) 
+- Colocar as variáveis de ambiente [Clique aqui](https://www.jdevtreinamento.com.br/variaveis-de-ambiente-configuracao/#:~:text=No%20menu%20%C3%A0%20esquerda%20clique,em%20%5BVARI%C3%81VEIS%20DE%20AMBIENTE%5D.)
+- MySQL server Community [Clique aqui](https://dev.mysql.com/downloads/mysql/)
+- MySQL Workbench [Clique aqui](https://dev.mysql.com/downloads/workbench/) ou HeidiSQL [Clique aqui](https://www.heidisql.com/download.php)
+- Spring Tools 4 [Clique aqui](https://spring.io/blog/2021/06/21/spring-tools-4-11-0-released)
+- Docker [Clique aqui](https://www.docker.com/)
+
 # Microsservicos-com-Feign-Cambio-Service
 
 ## O que são microsserviços?

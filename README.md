@@ -51,16 +51,8 @@ serviços
 
 ## O que precisa para rodar o projeto?
 
-Java 17 [download](https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_BR)
 
-SpringToolSuite4 [Download](https://spring.io/tools) &nbsp;
 
-Mysql [Download](https://www.mysql.com/downloads/) 
-ou
-HeidiSQL [Download](https://www.heidisql.com/download.php)
-
-Ter o cambio service na máquina e o book service na máquina.
-https://github.com/hadesfranklyn/Microsservicos-com-Feign-Book-Service/tree/main
 
 ## O que é o projeto?
 
